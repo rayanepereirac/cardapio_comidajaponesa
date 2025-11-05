@@ -1,0 +1,57 @@
+h1 {
+    color: red;
+    background-color: rgb(221, 170, 170);
+    width: 350px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 250px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+img:hover {
+    transform: scale(1.5);
+}
+
+h2 {
+    color: red;
+    width: 350px;
+    padding: 10px;
+}
+
+fieldset {
+    background-color: aliceblue;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 50px;
+}
+
+body {
+    background-color: bisque;
+}
+
+body {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(235, 200, 200);
+}
+
+h2 {
+    margin-left: 250px;
+}
